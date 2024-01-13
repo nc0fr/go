@@ -1,0 +1,8 @@
+# Copyright (c) 2024 Nicolas Paul.  All rights reserved.
+# Use of this source file is governed by the Nicolas Paul
+# Public License, Version 1.0, present in the COPYRIGHT file.
+
+User-Agent: *
+Disallow: /
+Host: go.nc0.fr
+Crawl-delay: 30
