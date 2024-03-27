@@ -4,4 +4,4 @@ feur_bot git https://github.com/nc0fr/feur_bot.git https://github.com/nc0fr/feur
 foo git https://github.com/nc0fr/foo-go.git https://github.com/nc0fr/foo-go/tree/master{/dir} https://github.com/nc0fr/foo-go/blob/master{/dir}/{file}#L{line}
 staticgovanityurls git https://github.com/nc0fr/staticgovanityurls.git https://github.com/nc0fr/staticgovanityurls/tree/master{/dir} https://github.com/nc0fr/staticgovanityurls/blob/master{/dir}/{file}#L{line}
 svgu git https://github.com/nc0fr/svgu.git https://github.com/nc0fr/svgu/tree/master{/dir} https://github.com/nc0fr/svgu/blob/master{/dir}/{file}#L{line}
-woody git https://github.com/nc0fr/woody.git https://github.com/nc0fr/woody/tree/master{/dir} https://github.com/nc0fr/woody/blob/master{/dir}/{file}#L{line}
+cv git https://github.com/nc0fr/cv.git https://github.com/nc0fr/cv/tree/master{/dir} https://github.com/nc0fr/cv/blob/master{/dir}/{file}#L{line}
